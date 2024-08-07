@@ -15,8 +15,11 @@ The purpose of this project is to develop a python program student grade tracker
 ![Screenshot (262)](https://github.com/user-attachments/assets/feef21fa-d6b5-4b28-bc7d-d1ac964835de)
 Features:
 Input student data
+
 Input student grades(in integer/float) for different subjects
+
 Calculate the average grade 
+
 Display overall grade
 
 
